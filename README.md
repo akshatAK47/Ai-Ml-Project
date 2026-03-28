@@ -1,11 +1,11 @@
 # AI-Ml-Project
-# 🌦️ Weather Prediction System (Without Machine Learning Libraries)
+# Weather Prediction System (Without Machine Learning Libraries)
 
 This project is a Weather Prediction System built using Python **without using any machine learning libraries like sklearn**. It uses basic logic and mathematical calculations to predict weather conditions.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - No external ML libraries used
 - Simple and easy to understand logic
@@ -24,14 +24,14 @@ This project concept is used in:
 - Decision-making systems in vehicles
 - Agricultural prediction tools
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - CSV module
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 weather-prediction-basic/
@@ -42,7 +42,7 @@ weather-prediction-basic/
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. The dataset is loaded using Python's CSV module.
 2. Data is separated into two categories:
@@ -54,7 +54,7 @@ weather-prediction-basic/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 python weather_prediction.py
@@ -62,7 +62,7 @@ python weather_prediction.py
 
 ---
 
-## 🧪 Example
+##  Example
 
 ```
 Enter Temperature: 29
@@ -74,7 +74,7 @@ Predicted Weather: Sunny
 
 ---
 
-## 📌 Advantages
+##  Advantages
 
 - Easy to understand for beginners
 - No dependency on external ML libraries
@@ -82,7 +82,7 @@ Predicted Weather: Sunny
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - Add more weather parameters
 - Improve prediction logic
@@ -91,7 +91,7 @@ Predicted Weather: Sunny
 
 ---
 
-## 🙌 Author
+##  Author
 
 Akshat Bajpai
 
