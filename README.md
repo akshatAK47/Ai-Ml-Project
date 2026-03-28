@@ -1,1 +1,1 @@
-# Ai-Ml-Project
+# AI-Ml-Project
