@@ -10,11 +10,11 @@ The main objective of this project is to provide a strong foundation for beginne
 
 This project is useful for learning:
 
-How to work with CSV datasets using Python
-How classification can be performed without ML libraries
-How mathematical distance formulas are applied in prediction systems
-How basic AI-like logic can be implemented using programming
-How real-world problems can be solved using simple algorithms
+- How to work with CSV datasets using Python
+- How classification can be performed without ML libraries
+- How mathematical distance formulas are applied in prediction systems
+- How basic AI-like logic can be implemented using programming
+- How real-world problems can be solved using simple algorithms
 
 
 Overall, this project acts as a beginner-friendly simulation of a weather forecasting system, helping students understand the core concepts behind prediction systems and preparing them for advanced topics in Machine Learning and Artificial Intelligence.
